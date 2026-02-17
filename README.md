@@ -25,8 +25,7 @@
 - Model optimization and MLOps best practices 
 
 🌱 I’m currently learning  
-- Deep Learning (Neural Networks, CNNs, RNNs, LSTMs)  
-- NLP (Text preprocessing, embeddings, transformers)  
+- NLP (transformers)  
 - Generative AI (LLMs, prompt engineering, RAG)  
 - Cloud & DevOps (AWS, Docker, CI/CD)  
 - Advanced SQL optimization & Power BI performance tuning  
